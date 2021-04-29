@@ -40,7 +40,7 @@ This project was developed with the following technologies:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/igor-marchi/proffy podcastr
+$ git clone https://github.com/igor-marchi/podcastr podcastr
 # Install dependencies
 $ cd yarn or npm -i
 # Start server
