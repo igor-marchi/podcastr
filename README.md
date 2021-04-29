@@ -43,7 +43,7 @@ This project was developed with the following technologies:
 $ git clone https://github.com/igor-marchi/proffy podcastr
 # Install dependencies
 $ cd yarn or npm -i
-# Start project
+# Start server
 $ cd yarn server
 # Start project
 $ yarn or npm dev
