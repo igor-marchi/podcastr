@@ -5,6 +5,7 @@
 <h4 align="center">
   Uma solução de podcasts.   
 </h4>
+
 <h4 align="center">
   Podcast app.
 </h4>
@@ -42,8 +43,8 @@ This project was developed with the following technologies:
 $ git clone https://github.com/igor-marchi/proffy podcastr
 # Install dependencies
 $ cd yarn or npm -i
-# Go into the repository
-$ cd podcastr
+# Start project
+$ cd yarn server
 # Start project
 $ yarn or npm dev
 ```
